@@ -1,3 +1,5 @@
+**Play the [Bash Game](https://sprig.hackclub.com/gallery/Bash_Game) made by me!**
+
 # :leaves: Hack Club Sprig :leaves: 
 
 **[💻 Online Editor: Make a game](https://sprig.hackclub.com/editor)** | **[👀 Gallery: Find games](https://sprig.hackclub.com/gallery)** | **[🕸 Website](https://sprig.hackclub.com)** | **[🎮 Firmware](https://github.com/hackclub/spade)** | **[See Game Submissions](https://github.com/hackclub/sprig/pulls)**
